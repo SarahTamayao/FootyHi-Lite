@@ -145,3 +145,4 @@ query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
 - (Create/LEAGUETABLE) Create a new league table object
 3. **User Screen**
 - (Read/GETFAVORITETEAM) Query logged to show user's favorite team
+
